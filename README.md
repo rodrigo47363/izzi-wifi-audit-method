@@ -69,4 +69,3 @@ El uso indebido de esta información puede tener consecuencias legales. Este pro
 ---
 
 © 2024 - Rodrigo | [LinkedIn](https://linkedin.com/in/rodrigo-v-695728215) | [GitHub](https://github.com/rodrigo47363)
-```
