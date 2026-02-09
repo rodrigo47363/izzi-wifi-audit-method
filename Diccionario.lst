@@ -1,6 +1,7 @@
-num = [1234567890]
-al = [abcdefghijklmnopqrstuvwxyz]
-au = [ABCDEFGHIJKLMNOPQRSTUVWXYZ]
-anl = [abcdefghijklmnopqrstuvwxyz1234567890]
-anu = [ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890]
-all = [ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890]
+num = []
+al = []
+au = []
+anl = []
+anu = []
+all = []
+
